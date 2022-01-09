@@ -1,4 +1,4 @@
-# Note Taker Starter Code: Modified starte code 
+# Note Taker Starter Code: Modified starter code 
 ## Description : 
 This app is to take notes and save to the HTML pages
 
