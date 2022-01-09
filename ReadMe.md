@@ -18,8 +18,8 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Links to the app :
-Git Hub link:
-Heroku Link
+Git Hub link: https://github.com/avneetk3/NotesApp/tree/master
+Heroku Link :   https://peaceful-tundra-75999.herokuapp.com
 
 ## Technology used : Node js abd Express.js 
 
@@ -49,7 +49,8 @@ npm start
 To opn it locally: http://localhost:3000 takes to index.html later changed to http://localhost:8000 when deployed to Heroku
 
 ## Screen shot of the save notes:
+![image](https://user-images.githubusercontent.com/92407474/148666388-fdfdce39-bfcb-4347-a4f4-d504cce3263e.png)
 
 
-## Created by Avneet Kaur 
+## Created by Avneet Kaur , git hub: https://github.com/avneetk3
 
